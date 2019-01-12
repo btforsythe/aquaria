@@ -115,6 +115,16 @@ Tap water: KH of about 4, GH of 9 (161 ppm)
 
 Picked up a bunch of Hygrophila angustifolia at Aquarium Adventure. Left it floating in the 29 for now.
 
+## 2018-08-30
+
+### target water parameters (from [Discobee's Dwarf Shrimp water parameters](https://www.discobee.com/blogs/news/17030569-dwarf-shrimp-water-parameters) entry for Red Cherry Shrimp)
+
+Looks like temperature may be a bit bogus?
+
+|PH			|KH		|GH		|TDS		|Temperature
+|---		|---	|---	|---		|---
+|6.4–7.6	|2–5	|6–8	|150–250	|69-74
+
 
 
 
