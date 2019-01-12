@@ -1,5 +1,5 @@
 1. tank supplies (incomplete list)
-    - [ ] aquarium and stand of chosen size (20G high is a great option)
+    - [ ] aquarium and stand of chosen size (20G high is great option)
     - [ ] light timer
     - [ ] 2g bucket
     - [ ] ammonia solution to test biofilter
